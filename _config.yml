@@ -2,8 +2,7 @@ title: "Your Name"
 description: "Personal Academic Website"
 author: "Your Name"
 email: "youremail@domain.com"
-theme: minimal
-
+theme: jekyll-theme-minimal
 # Navigation
 header_pages:
   - index.md
