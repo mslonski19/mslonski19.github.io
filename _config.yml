@@ -1,1 +1,12 @@
+title: "Your Name"
+description: "Personal Academic Website"
+author: "Your Name"
+email: "youremail@domain.com"
 theme: minimal
+
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
+  - contact.md
